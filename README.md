@@ -24,7 +24,7 @@ Train a recurrent neural network to generate TV scripts from the Simpsons:
 
 Train a sequence-to-sequence model to translate English to French:
 
-<https://github.com/kimegitee/deep-learning/tree/master/tv-script-generation>
+<https://github.com/kimegitee/deep-learning/tree/master/language-translation>
 
 ## Installation
 
